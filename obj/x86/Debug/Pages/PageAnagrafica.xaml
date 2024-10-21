@@ -1,0 +1,79 @@
+﻿<Page
+    x:Class="EsercizioMVVM__RiccardoChen.Pages.PageAnagrafica"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EsercizioMVVM__RiccardoChen.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModel ="using:EsercizioMVVM__RiccardoChen.Models"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Background="DarkKhaki" Padding="20">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left">
+            <Button x:ConnectionId='3' x:Name="Back" Content="Back" HorizontalAlignment="Left"                   />
+            <TextBlock Height="25" />
+            <TextBlock Text="Inserisci i dati" HorizontalAlignment="Center" FontSize="30" FontWeight="Bold" />
+            <TextBlock Height="25" />
+            <TextBlock Text="ID" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='4' x:Name="txtID" Text="{Binding ID, Mode=TwoWay}" PlaceholderText="Inserire ID(Obbligatorio)" HorizontalAlignment="Center" Width="300" />
+            
+            <TextBlock Text="Nome" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='5' x:Name="txtNome" Text="{Binding Nome, Mode=TwoWay}" PlaceholderText="Inserire Nome(Obbligatorio)" HorizontalAlignment="Center" Width="300" />
+            
+            <TextBlock Text="Cognome" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='6' x:Name="txtCognome" Text="{Binding Cognome, Mode=TwoWay}" PlaceholderText="Inserire Cognome(Obbligatorio)" HorizontalAlignment="Center" Width="300" />
+            
+            <TextBlock Text="Data di nascita" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='7' x:Name="DataNascita" Text="{Binding DataNascita, Mode=TwoWay}"  HorizontalAlignment="Center" Width="300" PlaceholderText="Inserire La data di nascita"                                       />
+            
+            <TextBlock Text="Indirizzo" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='8' x:Name="txtIndirizzo" Text="{Binding Indirizzo, Mode=TwoWay}" PlaceholderText="Inserire l'indirizzo" HorizontalAlignment="Center" Width="300" />
+            
+            <TextBlock Text="Città" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='9' x:Name="txtCittà" Text="{Binding Citta, Mode=TwoWay}" PlaceholderText="Inserire la città" HorizontalAlignment="Center" Width="300" />
+            
+            <TextBlock Text="CAP" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='10' x:Name="txtCAP" Text="{Binding CAP, Mode=TwoWay}" PlaceholderText="Inserire la CAP" HorizontalAlignment="Center" Width="300"/>
+            
+            <TextBlock Text="Numero di Telefono" HorizontalAlignment="Center" />
+            <TextBox x:ConnectionId='11' x:Name="txtNumeroTelefono" Text="{Binding NumTelefono, Mode=TwoWay}" PlaceholderText="Inserire il tuo numero di telefono" HorizontalAlignment="Center" Width="300" />
+            
+            <TextBlock x:ConnectionId='12' x:Name="MessaggioErr" HorizontalAlignment="Center" Foreground="red"/>
+            <TextBlock Height="25
+                   " />
+            <Button x:ConnectionId='13' Content="Aggiungi a Lista"                      HorizontalAlignment="Center" FontWeight="Bold" />
+            <TextBlock Height="40
+       " />
+
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Width="200" Height="1000" Margin="30" Background="Gray" Padding="12" BorderBrush="DarkGray" BorderThickness="4" >
+            <TextBlock Text="Lista:" FontSize="30" HorizontalAlignment="Center" Margin="20" FontWeight="Bold"/>
+            <ListBox ItemsSource="{Binding SimplePersonalDatas}" Height="500" Background="LightGray" >
+                <ListBox.ItemTemplate>
+                    <DataTemplate >
+                        <StackPanel Orientation="Vertical" Margin="5" Background="CadetBlue" Padding="10" BorderBrush="BurlyWood" BorderThickness="3">
+                            <TextBlock Text="ID:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding ID}" Margin="0,0,0,10" />
+                            <TextBlock Text="Nome:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Nome}" Margin="0,0,0,10" />
+                            <TextBlock Text="Cognome:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Cognome}" Margin="0,0,0,10" />
+                            <TextBlock Text="Data di Nascita:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Data_Nascita}" Margin="0,0,0,10"/>
+                            <TextBlock Text="Indirizzo:" FontWeight="Bold"  />
+                            <TextBlock Text="{Binding Indirizzo}" Margin="0,0,0,10"/>
+                            <TextBlock Text="Città:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Citta}" Margin="0,0,0,10" />
+                            <TextBlock Text="CAP:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Cap}" Margin="0,0,0,10" />
+                            <TextBlock Text="Numero di Telefono:" FontWeight="Bold" />
+                            <TextBlock Text="{Binding Telefono}" Margin="0,0,0,10" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </StackPanel>
+</Page>
+

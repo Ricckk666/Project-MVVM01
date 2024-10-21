@@ -1,0 +1,61 @@
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\EsercizioMVVM -RiccardoChen.csproj.AssemblyReference.cache
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\App.g.i.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\App.g.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\MainPage.g.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PageAnagrafica.g.i.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PageAnagrafica.g.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaLog.g.i.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaLog.g.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\App.xaml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\MainPage.xaml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PageAnagrafica.xaml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaLog.xaml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\App.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\MainPage.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PageAnagrafica.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaLog.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\App.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\MainPage.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\Pages\PageAnagrafica.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\Pages\PaginaLog.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\EsercizioMVVM -RiccardoChen.xr.xml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\EsercizioMVVM -RiccardoChen.exe
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\EsercizioMVVM -RiccardoChen.pdb
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\resources.pri
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\AppxManifest.xml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\Core\EsercizioMVVM -RiccardoChen.exe
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\EsercizioMVVM -RiccardoChen.build.appxrecipe
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\System.Runtime.dll
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\EsercizioMVVM -RiccardoChen.csproj.CoreCompileInputs.cache
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Esercizi.3F7789EF.Up2Date
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\EsercizioMVVM -RiccardoChen.exe
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\EsercizioMVVM -RiccardoChen.pdb
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\priconfig.xml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\resources.resfiles
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\pri.resfiles
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\qualifiers.txt
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_638441383520000000.json
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaRegistrazione.g.i.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaRegistrazione.g.cs
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaRegistrazione.xaml
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\obj\x86\Debug\Pages\PaginaRegistrazione.xbf
+C:\Users\RiccardoChen\source\repos\EsercizioMVVM -RiccardoChen\bin\x86\Debug\Pages\PaginaRegistrazione.xbf

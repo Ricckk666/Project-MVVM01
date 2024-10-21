@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="EsercizioMVVM__RiccardoChen.Pages.PaginaRegistrazione"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:EsercizioMVVM__RiccardoChen.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Crea il tuo account" HorizontalAlignment="Center" FontSize="35" FontWeight="Bold" />
+            <TextBlock Height="25
+           " />
+            <TextBlock Text="Username" HorizontalAlignment="Center" FontSize="20"/>
+            <TextBlock Height="10" />
+            <TextBox x:ConnectionId='2' x:Name="Username" HorizontalAlignment="Center" PlaceholderText="Inserire username" Width="300"/>
+            <TextBlock Height="20" />
+            <TextBlock Text="Password" HorizontalAlignment="Center" FontSize="20" />
+            <TextBlock Height="10" />
+            <PasswordBox x:ConnectionId='3' x:Name="Password" HorizontalAlignment="Center" PlaceholderText="Inserire la password" Width="300"/>
+
+            <TextBlock x:ConnectionId='4' x:Name="Messaggio" HorizontalAlignment="Center" Foreground="Red" />
+            <TextBlock Height="10
+           " />
+            
+
+            <Button x:ConnectionId='5' Content="Registration"                      HorizontalAlignment="Center" FontWeight="Bold"/>
+            <TextBlock Height="8
+" />
+
+
+            <HyperlinkButton x:ConnectionId='6' Content="Back" HorizontalAlignment="Center" Foreground="White"                              />
+
+        </StackPanel>
+
+    </Grid>
+</Page>
+
