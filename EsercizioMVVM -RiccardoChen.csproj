@@ -126,6 +126,9 @@
     <Compile Include="Models\Credenziali.cs" />
     <Compile Include="Models\PersonalDataViewModel.cs" />
     <Compile Include="Models\SimplePersonalData.cs" />
+    <Compile Include="Pages\ChiamataHTTP.xaml.cs">
+      <DependentUpon>ChiamataHTTP.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\PageAnagrafica.xaml.cs">
       <DependentUpon>PageAnagrafica.xaml</DependentUpon>
     </Compile>
@@ -160,6 +163,10 @@
     <Page Include="MainPage.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\ChiamataHTTP.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Pages\PageAnagrafica.xaml">
       <SubType>Designer</SubType>

@@ -10397,11 +10397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RiccardoChen\\Project-MVVM01\\EsercizioMVVM -RiccardoChen.csproj",
+      "projectUniqueName": "C:\\Users\\RiccardoChen\\source\\repos\\Project-MVVM01\\EsercizioMVVM -RiccardoChen.csproj",
       "projectName": "EsercizioMVVM -RiccardoChen",
-      "projectPath": "C:\\Users\\RiccardoChen\\Project-MVVM01\\EsercizioMVVM -RiccardoChen.csproj",
+      "projectPath": "C:\\Users\\RiccardoChen\\source\\repos\\Project-MVVM01\\EsercizioMVVM -RiccardoChen.csproj",
       "packagesPath": "C:\\Users\\RiccardoChen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RiccardoChen\\Project-MVVM01\\obj\\",
+      "outputPath": "C:\\Users\\RiccardoChen\\source\\repos\\Project-MVVM01\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

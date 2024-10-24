@@ -8,8 +8,8 @@
     xmlns:viewModel ="using:EsercizioMVVM__RiccardoChen.Models"
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
-    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Background="DarkKhaki" Padding="20">
+    <StackPanel Background="DarkKhaki">
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Padding="20">
         <StackPanel Orientation="Vertical" HorizontalAlignment="Left">
             <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Click="Back_Click"/>
             <TextBlock Height="25" />
@@ -47,7 +47,7 @@
        " />
 
         </StackPanel>
-        <StackPanel Orientation="Vertical" Width="200" Height="1000" Margin="30" Background="Gray" Padding="12" BorderBrush="DarkGray" BorderThickness="4" >
+           <StackPanel Orientation="Vertical" Width="200" Height="620" Margin="30" Background="Gray" Padding="12" BorderBrush="DarkGray" BorderThickness="4" >
             <TextBlock Text="Lista:" FontSize="30" HorizontalAlignment="Center" Margin="20" FontWeight="Bold"/>
             <ListBox ItemsSource="{Binding SimplePersonalDatas}" Height="500" Background="LightGray" >
                 <ListBox.ItemTemplate>
@@ -73,6 +73,7 @@
                     </DataTemplate>
                 </ListBox.ItemTemplate>
             </ListBox>
+        </StackPanel>
         </StackPanel>
     </StackPanel>
 </Page>
